@@ -1,3 +1,4 @@
+'use client';
 import { lusitana } from '@/app/fonts';
 import {
   AtSymbolIcon,
